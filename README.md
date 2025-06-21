@@ -26,8 +26,8 @@ This project is a front-end *clone of Udemy*, created to practice HTML and CSS s
 
 ## 🔧 How to view
 
-.       Live website 
-         GitHub 
+.       Live website https://reshmashameem31.github.io/Udemy--Clone/
+.       GitHub 
 
 
 
